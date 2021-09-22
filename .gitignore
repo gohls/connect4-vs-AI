@@ -1,0 +1,14 @@
+# Mac specific
+.DS_Store
+
+# VS Code specific 
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+*.code-workspace
+.history/
+
+# App specific 
+venv
